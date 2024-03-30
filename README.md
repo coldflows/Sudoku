@@ -1,6 +1,8 @@
 # Sudoku-GUI-Solver
 
-![Uploading sudoku.gif…]()
+![sudoku](https://github.com/coldflows/Sudoku/assets/17550445/3e592b86-5eae-4eb3-8f6d-08a73a65bc70)
+
+
 
 This is a playable sudoku game that utilizes  the backtracking algorithm to solve the puzzle. It includes a graphical GUI as well as a text based version.
 
