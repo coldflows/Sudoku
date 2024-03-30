@@ -1,6 +1,6 @@
 # Sudoku-GUI-Solver
 
-file:///Users/ibrahimshehu/Downloads/sudoku.gif
+![Uploading sudoku.gif…]()
 
 This is a playable sudoku game that utilizes  the backtracking algorithm to solve the puzzle. It includes a graphical GUI as well as a text based version.
 
