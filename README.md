@@ -1,6 +1,7 @@
 # Sudoku-GUI-Solver
 
-![Uploading sudoku.gif…]()
+file:///Users/ibrahimshehu/Downloads/sudoku.gif
+
 This is a playable sudoku game that utilizes  the backtracking algorithm to solve the puzzle. It includes a graphical GUI as well as a text based version.
 
 Every time the program is executed, a random, solvable board is created and the user can attempt to solve it by clicking on the cells. This board is created by using the Sengoku api to generate the values for the board. In the event that the user cannot connect to the api via the internet, a hardcoded board will be used. Entering a number into a cell will be entered as a tentative value. Once the the user is sure that the inputted number is the correct entry, pressing the enter key will input the number onto the board. 
